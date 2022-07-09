@@ -9,8 +9,8 @@
         "TroJanzHEX"
     ],
     "group": "https://t.me/JYS_MEDIA_OFFICIAL_GROUP",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "repository": "https://t.me/JYS_MEDIA",
+    "success_url": "https://t.me/JYS_MEDIA",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
